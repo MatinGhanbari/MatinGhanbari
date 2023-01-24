@@ -6,7 +6,7 @@
 
 🎓 I'm computer engineering student at KNTU university of technology.
 
-💻 I'm interested in computer and programming and I have 4+ years of experience in the programming.
+💻 I'm interested in computer and programming and I have 2+ years of experience in the programming.
 
 🔗 Telegram: <a href="https://t.me/Ghanbari_Matin">Ghanbari_Matin</a>
 
