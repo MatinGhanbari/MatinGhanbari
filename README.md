@@ -7,10 +7,7 @@ Hopefully they can be useful to you as well!
 * To support the development of my projects, consider [donating](https://www.coffeete.ir/matinghanbari).
 
 ### Tech Stack:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" alt="dot-net logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="30" alt="csharp logo"/>  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" alt="dot-net logo"  />
   
 ### Socials
 
