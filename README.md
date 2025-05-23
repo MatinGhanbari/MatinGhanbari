@@ -11,8 +11,6 @@ Hopefully they can be useful to you as well!
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/matinghanbari/)
 [![Medium](https://img.shields.io/static/v1?message=Medium&logo=Medium&label=&color=22202E&logoColor=white&labelColor=&style=for-the-badge)](https://medium.com/@MatinGhanbari)
-[![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=Telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/ghanbari_matin)
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/ghanbari_matin_)
 
 ### Stats
 
