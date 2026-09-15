@@ -2,8 +2,6 @@
 
 **Software Engineer | .NET & Microservices Enthusiast**
 
-[![](https://komarev.com/ghpvc/?username=MatinGhanbari&color=0a0a0a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MatinGhanbari)
-
 Portfolio: https://matinghanbari.github.io/
 
 I am a Software Engineer with around 3 years of experience specializing in building scalable, high-performance systems. I am passionate about **Domain-Driven Design (DDD)**, **CQRS**, and **Microservices Architecture**. Currently, I'm pursuing my Master's degree in Software Engineering at the Iran University of Science and Technology (IUST).
@@ -43,3 +41,4 @@ I am a Software Engineer with around 3 years of experience specializing in build
 
 ---
 ⭐️ *Thanks for visiting my profile!*
+[![](https://komarev.com/ghpvc/?username=MatinGhanbari&color=0a0a0a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MatinGhanbari)
