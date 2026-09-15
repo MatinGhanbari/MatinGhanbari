@@ -30,7 +30,7 @@ I am a Software Engineer with around 3 years of experience specializing in build
 ### 📦 Open Source Projects
 
 * **[NexGen.MediatR.Extensions.Caching](https://github.com/matinghanbari)** 
-  An open-source MediatR caching package available on NuGet. Designed to reduce latency by up to 60% with smart cache invalidation strategies for event-driven architectures. (⭐ 11+ Stars)
+  An open-source MediatR caching package available on NuGet. Designed to reduce latency by up to 60% with smart cache invalidation strategies for event-driven architectures. (⭐ 14+ Stars)
 
 ---
 
